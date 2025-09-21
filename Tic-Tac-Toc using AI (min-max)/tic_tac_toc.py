@@ -1,8 +1,12 @@
+
+
 import pygame
 import sys
 import numpy as np
 
 pygame.init()
+
+print("Starting Tic Tac Toe Game...")
 
 WIDTH, HEIGHT = 600, 600
 LINE_WIDTH = 15
