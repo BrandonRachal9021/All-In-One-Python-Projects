@@ -1,4 +1,4 @@
-from textblob import TextBlob
+from TextBlob import TextBlob
 
 t = 1
 while t:
