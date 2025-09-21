@@ -1,3 +1,5 @@
+
+
 import pyshorteners
 
 
@@ -7,3 +9,4 @@ def shorten_url(url):
 
 url = input("Please enter URL: ")
 print("URL after Shortening : ", shorten_url(url))
+print("Copy and paste your URL in your browser to visit the site. Thanks for using URL Shortener!")
